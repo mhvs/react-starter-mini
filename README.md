@@ -2,7 +2,7 @@
 
 > A reactjs project
 
-一个基本的react库
+basic react app
 
 ## Build Setup
 

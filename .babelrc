@@ -9,5 +9,12 @@
       "useBuiltIns":true
     }]
   ],
+  "env": {
+    "development": {
+      "presets": [
+        "react-hmre"
+      ]
+    }
+  },
   "comments": false
 }
