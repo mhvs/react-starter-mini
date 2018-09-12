@@ -4,6 +4,9 @@
 
 basic react app
 
+use es6 webpack4 less 
+just simple
+
 ## Build Setup
 
 ``` bash
