@@ -6,6 +6,6 @@ export default class App extends  React.Component{
     }
 
     render(){
-        return <div>ha</div>
+        return <h1>ha</h1>
     }
 }
